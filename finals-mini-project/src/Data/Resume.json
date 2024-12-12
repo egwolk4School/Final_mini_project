@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/vic.jpg",
+        "name": "Jane Doe",
+        "job": "CEO & Founder",
+        "email": "jane.doe@example.com",
+        "phone": "(555) 123-4567",
+        "linkedin": "linkedin.com/in/janedoe",
+        "summary": "Visionary founder with a passion for design and craftsmanship. Spearheaded the creation of a thriving artisan keyboard business, blending innovative design with quality craftsmanship. Proven ability to lead teams, develop product strategies, and establish a unique brand identity in a niche market.",
+        "exp": [
+            {"work": "Founder & CEO", "duration": "2020 - Present", "workplace": "KeyStaxx"},
+            {"work": "Product Designer", "duration": "2017 - 2020", "workplace": "Innovative Inputs Inc."},
+            {"work": "Industrial Designer", "duration": "2015 - 2017", "workplace": "Creative Concepts Studio"}
+        ],
+        "educ": [
+            {"school": "Stanford University", "duration": "2016 - 2018", "field": "Master of Business Administration (MBA)"},
+            {"school": "University of California, Los Angeles (UCLA)", "duration": "2011 - 2015", "field": "Bachelor of Arts in Industrial Design"},
+            {"school": "Santa Monica High School", "duration": "2007 - 2011", "field": "High School Diploma"}
+        ],
+        "technical-skills": [
+            {"skill": "Product Design", "percentage": "90"},
+            {"skill": "Product Development", "percentage": "85"},
+            {"skill": "Prototyping", "percentage": "80"},
+            {"skill": "3D Printing", "percentage": "75"},
+            {"skill": "Engineering", "percentage": "70"},
+            {"skill": "Agile Project Management", "percentage": "85"},
+            {"skill": "Design Thinking", "percentage": "80"}
+        ],
+        "non-technical-skills": [
+            {"skill": "Leadership", "percentage": "95"},
+            {"skill": "Branding", "percentage": "90"},
+            {"skill": "Supplier Negotiation", "percentage": "85"},
+            {"skill": "Public Speaking", "percentage": "80"}
+        ],
+        "interests": [
+            {"label":"Keyboards","icon":"<FaKeyboard />"},
+            {"label":"Architecture","icon":"<FaBuilding />"},
+            {"label":"Cats","icon":"<FaCat />"},
+            {"label":"Photography","icon":"<FaCamera />"},
+            {"label":"Hiking","icon":"<FaMountain />"}
+        ],
+        "address": "123 Innovation Lane, Palo Alto"
+    },
+    {
+        "id": 2,
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/mike.png",
+        "name": "Alex Smith",
+        "job": "Marketing Specialist",
+        "email": "alex.smith@example.com",
+        "phone": "(555) 234-5678",
+        "linkedin": "linkedin.com/in/alexsmith",
+        "summary": "Creative and data-driven marketing professional with expertise in branding, social media management, and content creation. Adept at driving engagement and increasing visibility for niche products in competitive markets.",
+        "exp": [
+            {"work": "Marketing Specialist", "duration": "2021 - Present", "workplace": "Artisan Keyboards Co."},
+            {"work": "Digital Marketing Intern", "duration": "2019 - 2021", "workplace": "Tech Trends Media"},
+            {"work": "Social Media Coordinator", "duration": "2018 - 2019", "workplace": "BuzzWorks Agency"}
+        ],
+        "educ": [
+            {"school": "Columbia University", "duration": "2018 - 2020", "field": "Master of Arts in Digital Marketing"},
+            {"school": "New York University (NYU)", "duration": "2014 - 2018", "field": "Bachelor of Science in Marketing"},
+            {"school": "Brooklyn Technical High School", "duration": "2010 - 2014", "field": "High School Diploma"}
+        ],
+        "technical-skills": [
+            {"skill": "Social Media Management", "percentage": "85"},
+            {"skill": "SEO and Analytics", "percentage": "80"},
+            {"skill": "Video Editing", "percentage": "75"},
+            {"skill": "Email Marketing", "percentage": "80"},
+            {"skill": "Graphic Design", "percentage": "75"},
+            {"skill": "A/B Testing", "percentage": "70"},
+            {"skill": "CMS", "percentage": "85"}
+        ],
+        "non-technical-skills": [
+            {"skill": "Content Creation", "percentage": "90"},
+            {"skill": "Campaign Strategy", "percentage": "85"},
+            {"skill": "Relationship Building", "percentage": "80"},
+            {"skill": "Critical Thinking", "percentage": "80"}
+        ],
+        "interests": [
+            {"label":"Photography","icon":"<FaCamera />"},
+            {"label":"Fashion","icon":"<FaTshirt />"},
+            {"label":"Gaming","icon":"<FaGamepad />"},
+            {"label":"Blogging","icon":"<FaPhotoVideo />"},
+            {"label":"Cars","icon":"<FaCarSide />"}
+        ],
+        "address": "456 Market Street, New York"
+    },
+    {
+        "id": 3,
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/ash.jpg",
+        "name": "Taylor Nguyen",
+        "job": "Accounting Specialist",
+        "email": "taylor.nguyen@example.com",
+        "phone": "(555) 345-6789",
+        "linkedin": "linkedin.com/in/taylornguyen",
+        "summary": "Detail-oriented accounting professional with a passion for supporting small businesses. Skilled in bookkeeping, financial analysis, and inventory management, ensuring efficient operations and profitability.",
+        "exp": [
+            {"work": "Accounting Specialist", "duration": "2021 - Present", "workplace": "Artisan Keyboards Co."},
+            {"work": "Junior Accountant", "duration": "2018 - 2021", "workplace": "Craft Ventures LLC"},
+            {"work": "Accounts Assistant", "duration": "2016 - 2018", "workplace": "Finance Solutions Inc."}
+        ],
+        "educ": [
+            {"school": "University of Southern California (USC)", "duration": "2017 - 2019", "field": "Master of Science in Financial Management"},
+            {"school": "University of Texas at Austin", "duration": "2013 - 2017", "field": "Bachelor of Science in Accounting"},
+            {"school": "Bellaire High School", "duration": "2009 - 2013", "field": "High School Diploma"}
+        ],
+        "technical-skills": [
+            {"skill": "Excel Proficiency", "percentage": "90"},
+            {"skill": "Budgeting", "percentage": "85"},
+            {"skill": "Forecasting", "percentage": "80"},
+            {"skill": "Quickbooks", "percentage": "85"},
+            {"skill": "Tax Prep", "percentage": "75"},
+            {"skill": " Microsoft Access", "percentage": "80"},
+            {"skill": "Data Visualization", "percentage": "70"}
+        ],
+        "non-technical-skills": [
+            {"skill": "Attention to Detail", "percentage": "95"},
+            {"skill": "Financial Reporting", "percentage": "90"},
+            {"skill": "Communication", "percentage": "85"},
+            {"skill": "Time Management", "percentage": "90"}
+        ],
+        "interests": [
+            {"label":"Puzzles","icon":"<FaPuzzlePiece />"},
+            {"label":"Chess","icon":"<FaChessKnight />"},
+            {"label":"DIY","icon":"<FaTools />"},
+            {"label":"Gardening","icon":"<FaLeaf />"},
+            {"label":"Traveling","icon":"<FaMap />"}
+        ],
+        "address": "789 Pine Street, Austin, TX 78701"
+    }
+]

@@ -1,0 +1,289 @@
+nav ul li a.active::after {
+    width: 100%;
+}
+
+nav ul li .mother.open::after{
+    width: 100%;
+}
+
+nav ul li.dropdown:has(.dropdown-item.active) > .mother::after {
+    width: 100%;
+}
+nav ul li .mother::after {
+    content: '';
+    display: block;
+    width: 0%;
+    height: 2px;
+    left: 0;
+    background-color: rgb(var(--active-color));
+    transition: width 0.3s linear;
+}
+nav ul li a.color1::after{
+    background-color: rgb(var(--active-color));
+    box-shadow: 0 0 5px rgb(var(--active-color));
+    
+}
+
+
+
+nav ul li .mother::after{
+    background-color: rgb(var(--active-color));
+    transition: all 0.3s linear;
+    box-shadow: 0 0 5px rgb(var(--active-color));
+}
+
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.9);
+    position: sticky;
+    width: 100%;
+    top: 0;
+    border-bottom:solid .1rem #54b2ff ;
+    z-index: 3;
+    box-shadow: 0 0 3px rgb(var(--active-color));
+    transition: all .5s ease;
+}
+
+nav .title{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin: 1rem;
+    text-shadow:0 0 20px;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    list-style: none;
+}
+nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: .5rem;
+    margin: 0 .5rem;
+    position: relative;
+}
+nav ul li .mother {
+    cursor: pointer; /* Ensures it looks clickable */
+    display: block; /* Adjust as necessary for alignment */
+    align-items: center;
+    color: white;
+    padding: 0.5rem;
+    transition: color 0.3s ease;
+    position: relative;
+}
+
+nav ul li a::after{
+    content: '';
+    height: 2px;
+    width: 0%;
+    left: 0;
+    background-color: black;
+    display: block;
+    pointer-events: none;
+    transition: all 0.3s linear;
+}
+
+nav ul li a:hover::after{
+    width: 100%;
+}
+nav ul li.dropdown:hover > .mother::after {
+    width: 100%;
+}
+
+
+nav .menu{
+    position: absolute;
+    top: .75rem;
+    right:1rem;
+    width: 2.5rem;
+    height: 2.5rem;
+    display: none;
+    flex-direction: column;
+}
+nav .menu span{
+    background-color: white;
+    height: 3px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    transition: all .3s ease;
+}
+
+nav .menu span:nth-child(1){
+    top: 25%;
+}
+nav .menu span:nth-child(3){
+    top: 75%;
+}
+nav .menu.open span:nth-child(1){
+    top: 55%;
+    transform: translate(-50%,-50%) rotate(45deg);
+}
+nav .menu.open span:nth-child(2){
+    opacity: 0;
+    transform: translate(-100%,-100%);
+}
+nav .menu.open span:nth-child(3){
+    top: 50%;
+    transform: translate(-50%,50%) rotate(-45deg);
+}
+
+
+
+nav ul li.dropdown {
+    position: relative; 
+}
+nav ul li .dropdown-menu {
+    flex-direction: column;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.9);
+    min-width: 180px;
+    min-height: 0;
+    max-height: 0;
+    transition: all .3s ease-in-out; 
+    border: solid .1rem black;
+    opacity: 0;
+    box-shadow: 0 0 3px rgb(var(--active-color));
+}
+
+
+nav ul li .dropdown-menu.open {
+    opacity: 1;
+    min-height: 10rem;
+    border: solid .1rem rgb(var(--active-color));
+}
+
+
+nav ul li .dropdown-item {
+    padding: 9px 16px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+
+nav ul li .mother .dropdown-arrow{
+    transform: rotate(0deg);
+    transition: transform 0.3s ease;
+}
+nav ul li .mother.open .dropdown-arrow{
+    transform: rotate(180deg);
+}
+
+
+@media (min-width:700px) {
+    nav ul li:hover .dropdown-menu {
+        min-height: 10rem;
+        border: solid .1rem rgb(var(--active-color));
+        opacity: 1;
+        
+    }
+    nav ul li.dropdown:hover > .mother .dropdown-arrow {
+        transform: rotate(180deg);
+    }
+}
+
+@media (max-width:700px){
+    
+    nav .menu{
+        display: flex;
+        transition: all .3s linear;   
+    }
+
+    nav {
+        flex-direction: column;
+        align-items: start;
+        position: fixed;
+    }
+    nav ul{
+        flex-direction: column;
+        overflow: hidden;
+        width: 100%;
+        margin-bottom: .25rem;
+        max-height: 0;
+        min-height: 0;
+        transition: all .3s ease-in-out; 
+    }
+    nav ul.open{
+        min-height: 100vh;
+        width: 100%;
+    }
+    nav ul li {
+        text-align: center;
+        position: relative;
+        top: 0;
+    }
+    nav ul li a {
+        margin: 1rem 2rem;
+        border-bottom: solid white 1px ;
+    }
+    nav ul li .mother {
+        margin: 1rem 2rem;
+        border-bottom: solid white 1px ;
+    }
+    nav ul li a::after{
+        content: '';
+        height: 2px;
+        width: 0%;
+        left: 50%;
+        margin-top: .5rem;
+        background-color: red;
+        display: block;
+        pointer-events: none;
+        position: absolute; /* Make sure the pseudo-element is positioned */
+        transform: translateX(-50%); /* Centers the line */
+        transition: all 0.3s linear;
+    }
+    nav ul li .mother::after{
+        content: '';
+        height: 2px;
+        width: 0%;
+        left: 50%;
+        margin-top: .5rem;
+        background-color: rgb(var(--active-color));
+        display: block;
+        pointer-events: none;
+        position: absolute; /* Make sure the pseudo-element is positioned */
+        transform: translateX(-50%); /* Centers the line */
+        transition: all 0.3s linear;
+    }
+
+    nav ul li.dropdown {
+        position: relative;
+        max-height: 25rem;
+    }
+    nav ul li .dropdown-menu {
+        position: relative; 
+        top: 100%; 
+        left: 0;
+        width: 100%;
+        background-color:rgba(0, 0, 0, 0);
+        max-height: 0;
+        min-height: 0;
+        transition: all .3s ease;
+        
+    }
+    nav ul li .dropdown-menu.open {
+        max-height: 18rem;
+        border: none;
+        box-shadow: none;
+    }
+    
+    
+}

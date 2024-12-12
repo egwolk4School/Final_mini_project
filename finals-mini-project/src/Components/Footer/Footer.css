@@ -1,0 +1,8 @@
+footer{
+    background-color: rgba(0, 0, 0, 0.9);
+    border-top: solid .1rem rgb(var(--active-color))  ;
+    color: rgb(var(--active-color));
+    text-align: center;
+    padding: .5rem;
+    box-shadow: 0 0 3px rgb(var(--active-color));
+}

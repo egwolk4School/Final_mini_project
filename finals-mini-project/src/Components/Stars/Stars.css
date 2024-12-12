@@ -1,0 +1,8 @@
+.stars label input[type="radio"]{
+    display: none;
+}
+.stars label .star{
+    stroke: rgb(var(--active-color));
+    stroke-width: 25px;
+    
+}

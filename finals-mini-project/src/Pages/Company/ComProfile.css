@@ -1,0 +1,46 @@
+.resumeList{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,30rem);
+    gap: 3rem 5%;
+    justify-content: center;
+    list-style: none;
+    width: 90%;
+}
+
+.resumeList .company-card a{
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    height: 30rem;
+    border: solid .1rem rgb(var(--active-color));
+    box-shadow: 0 0 3px rgb(var(--active-color));
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.resumeList .company-card a {
+    color: white;
+    text-decoration: none;
+}
+.resumeList .company-card a .thumb-container{
+    height: 80%;
+    width:80%;
+    overflow: hidden;
+    background-color: rgb(68, 64, 64);
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.resumeList .company-card  a .thumb-container img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.resumeList .company-card a .card-info{
+    width: 100%;
+    padding: 15px;
+    border-top:solid .1rem rgb(var(--active-color));
+    text-align: center;
+}

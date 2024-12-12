@@ -1,0 +1,54 @@
+.form-area form {
+
+  margin: 0;
+
+  display: flex;
+  width: 100%;
+}
+
+.form-area .top-layer,
+.form-area .bot-layer {
+  margin-bottom: 20px;
+}
+
+.form-area input,
+.form-area textarea {
+  width: 100%; 
+  padding: 10px;
+  border: 2px solid #00ff00;
+  background-color: #000;
+  color: #fff;
+  border-radius: 5px;
+  font-size: 16px;
+  outline: none;
+}
+
+.form-area input:focus,
+.form-area textarea:focus {
+  border-color: #00cc00; 
+}
+
+.form-area input::placeholder,
+.form-area textarea::placeholder {
+  color: #bbb; 
+}
+
+.form-area button {
+  width: 100%;
+  padding: 12px;
+  background-color: #00ff00; 
+  border: none;
+  color: #000; 
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.form-area button:hover {
+  background-color: #00cc00; /* Darker green on hover */
+}
+
+.form-area button:focus {
+  outline: none; /* Remove the default focus outline on button */
+}
+  

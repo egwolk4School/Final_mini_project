@@ -1,0 +1,72 @@
+.feedback-container{
+    width: 90%;
+    height: 80vh;
+    color: white;
+    background-color: black;
+    border: solid .1rem rgb(var(--active-color));
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+.feedback-container h2{
+    color: rgb(var(--active-color));
+}
+
+.feedback-container .mga-review{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 15px;
+}
+
+.feedback-container .mga-review  ul li{
+    list-style: none;
+    padding: 10px 0px;
+}
+.feedback-container .mga-review  ul li:not(:last-child){
+    border-bottom: solid white .1rem ;
+}
+.feedback-container .mga-review ul li .not-nickname{
+    margin: .2rem 3rem;
+}
+
+
+.feedback-container .mga-review ul li .not-nickname p{
+    margin-top: .5rem;
+}
+
+.feedback-container .mga-review  ul li .users{
+    display: flex;
+    align-items: center;
+}
+
+.feedback-container .mga-review  ul li .users .user-circle{
+    font-size: 40px;
+    color: rgb(var(--active-color));
+    margin-right: 3px;
+}
+.feedback-container .form-area{
+    width: 100%;
+    height: 20rem;
+
+
+    
+    /* background-color: aqua; */
+}
+
+.feedback-container .form-area .cake{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin-right: 1rem;
+}
+
+.feedback-container .form-area button{
+    width: 20%;
+}
+.feedback-container .form-area .cake .top-layer{
+    display: flex;
+    justify-content: space-between;
+}
+.feedback-container .form-area .cake .top-layer input{
+    width: 70%;
+}

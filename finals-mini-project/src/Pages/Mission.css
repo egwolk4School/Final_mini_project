@@ -1,0 +1,42 @@
+/* General styling for the container */
+.mv, .obj {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+/* Styling for headings */
+.mv h1, .obj h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #2c3e50;
+    border-bottom: 2px solid #f4c2c2;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* Styling for paragraphs */
+.mv p {
+    line-height: 1.6;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+/* Styling for unordered list */
+.obj ul {
+    margin: 10px 0;
+    padding: 0 20px;
+    list-style-type: disc;
+}
+
+/* Styling for list items */
+.obj ul li {
+    margin: 10px 0;
+    font-size: 16px;
+    line-height: 1.6;
+}

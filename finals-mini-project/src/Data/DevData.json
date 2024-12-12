@@ -1,0 +1,88 @@
+[
+    {
+        "id": 1,
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/pfp1.jpg",
+        "name": "Erin Covacha",
+        "job": "Full-Stack Developer",
+        "email": "20226410@s.ubaguio.edu",
+        "phone": "09163268691",
+        "linkedin": "linkedin.com/in/erincovacha",
+        "summary": "i like cereal.",
+        "exp": [
+            {"work": "Student Assistant", "duration": "2023 - Present", "workplace": "University of Baguio"},
+            {"work": "KeyStaxx Dev", "duration": "2024 - 2024", "workplace": "KeyStaxx"},
+            {"work": "Professional Tambay", "duration": "2003 - Present", "workplace": "Bahay"}
+        ],
+        "educ": [
+            {"school": "University of Baguio", "duration": "2022 - Present", "field": "Bachelor of Science in Computer Science (BSCS)"},
+            {"school": "Baguio City National Science High School", "duration": "2020 - 2021", "field": "Science Technology Mathematics and Engieering (STEM)"},
+            {"school": "Northwerstern University", "duration": "2016 - 2020", "field": "Junior High School"}
+        ],
+        "technical-skills": [
+            {"skill": "Java", "percentage": "90"},
+            {"skill": "Python", "percentage": "70"},
+            {"skill": "PHP", "percentage": "80"},
+            {"skill": "Javascript", "percentage": "75"},
+            {"skill": "SQL", "percentage": "70"},
+            {"skill": "React", "percentage": "85"},
+            {"skill": "Laravel", "percentage": "70"}
+        ],
+        "non-technical-skills": [
+            {"skill": "Photoshop", "percentage": "85"},
+            {"skill": "Sony Vegas", "percentage": "90"},
+            {"skill": "Premier Pro", "percentage": "80"},
+            {"skill": "After Effects", "percentage": "80"}
+        ],
+        "interests": [
+            {"label":"Games","icon":"<FaGamepad />"},
+            {"label":"Music","icon":"<FaMusic />"},
+            {"label":"Cats","icon":"<FaCat />"},
+            {"label":"Design","icon":"<FaPencilRuler />"},
+            {"label":"Bowling","icon":"<FaBowlingBall />"}
+        ],
+        "address": "Irisan, Baguio City"
+    },
+    {
+        "id": 2,
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/pfp2.jpg",
+        "name": "Stephen Robles",
+        "job": "Full-Stack Developer",
+        "email": "2016521@s.ubaguio.edu",
+        "phone": "09083258711",
+        "linkedin": "linkedin.com/in/tsumuluvr",
+        "summary": "Creative and data-driven marketing professional with expertise in branding, social media management, and content creation. Adept at driving engagement and increasing visibility for niche products in competitive markets.",
+        "exp": [
+            {"work": "Full-Stack Developer", "duration": "2024 - Present", "workplace": "Keystaxx"},
+            {"work": "Front End Development", "duration": "2022", "workplace": "INTRCS1/HUMCOM1"},
+            {"work": "Backend Development", "duration": "2022", "workplace": "PROGIT1/PROGIT"}
+        ],
+        "educ": [
+            {"school": "University of Baguio", "duration": "2022 - Present", "field": "Bachelor of Science in Computer Science"},
+            {"school": "University of Baguio Senior Science High School", "duration": "2020 - 2022", "field": "Senior High"},
+            {"school": "University of Baguio Science High School", "duration": "2016 - 2020", "field": "Junior High"}
+        ],
+        "technical-skills": [
+            {"skill": "Java", "percentage": "90"},
+            {"skill": "Python", "percentage": "75"},
+            {"skill": "PHP", "percentage": "20"},
+            {"skill": "Javascript", "percentage": "60"},
+            {"skill": "SQL", "percentage": "80"},
+            {"skill": "React", "percentage": "85"},
+            {"skill": "Laravel", "percentage": "10"}
+        ],
+        "non-technical-skills": [
+            {"skill": "Photoshop", "percentage": "80"},
+            {"skill": "Sony Vegas", "percentage": "20"},
+            {"skill": "Premier Pro", "percentage": "75"},
+            {"skill": "After Effects", "percentage": "60"}
+        ],
+        "interests": [
+            {"label":"Photography","icon":"<FaCamera />"},
+            {"label":"Fashion","icon":"<FaTshirt />"},
+            {"label":"Gaming","icon":"<FaGamepad />"},
+            {"label":"Blogging","icon":"<FaPhotoVideo />"},
+            {"label":"Cars","icon":"<FaCarSide />"}
+        ],
+        "address": "102 Old Site Bakakeng Baguio City."
+    }
+]

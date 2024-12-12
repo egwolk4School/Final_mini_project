@@ -1,0 +1,913 @@
+[
+    {
+        "id": 1,
+        "model": "KB1-Gilded Vanguard",
+        "switch": "Cherry MX Black",
+        "size": "75%",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB1/KB1.png",
+        "ov": "The Gilded Vanguard is a premium mechanical keyboard crafted for gamers and professionals. With a luxurious design, dynamic RGB lighting, and responsive mechanical switches, it ensures precision and style. It also offers programmable keys and robust build quality for an enhanced typing experience.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Dynamic RGB Backlighting", "val2": "Vibrant colors and lighting effects for a personalized look."},
+                    {"val1": "Mechanical Switches", "val2": "Cherry MX Black for tactile feedback and smooth keystrokes."},
+                    {"val1": "Programmable Keys", "val2": "Assign macros and custom functions to streamline workflows."},
+                    {"val1": "Anti-Ghosting & N-Key Rollover", "val2": "For flawless performance in high-pressure scenarios."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Black (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "75% (84 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with customizable effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "450 mm x 140 mm x 38 mm"},
+                    {"val1": "Weight", "val2": "1.3 kg"},
+                    {"val1": "Cable Length", "val2": "2 meters braided"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup":[
+                {"val1":"Unboxing", "val2":["Carefully remove the keyboard, accessories, and warranty card from the box."]},
+                {"val1":"Connecting the Keyboard", "val2":[
+                    "Attach the detachable USB-C cable to the keyboard and plug the other end into an available USB-C or USB-A port (adapter included).",
+                    "The keyboard should be automatically recognized. No drivers required."
+                ]},
+                {"val1":"Software Installation (Optional)", "val2":[
+                    "Download the Vanguard Configurator software from the official website to customize lighting and macros.",
+                    "Install the software by following on-screen instructions."
+                ]},
+                {"val1":"Keycap Removal and Replacement", "val2":[
+                    "Use the included gold-accented keycap puller to gently lift the keycaps for cleaning or replacement.",
+                    "Press new keycaps onto switches until you hear a click."
+                ]}
+            ]},
+            {"usage":[
+                {"val1":"Basic Typing", "val2":[
+                    "Start typing right away with pre-configured mechanical switches."
+                ]},
+                {"val1":"Customizing Backlighting", "val2":[
+                    "Use Fn + Home to toggle through RGB lighting modes.",
+                    "Create and save personalized profiles in the Vanguard Configurator."
+                ]},
+                {"val1":"Programming Keys", "val2":[
+                    "Launch Vanguard Configurator.",
+                    "Select a key, assign a custom macro, and apply settings."
+                ]},
+                {"val1":"Using Media Controls", "val2":[
+                    "Fn + F1–F3 controls media playback and volume levels."
+                ]}
+            ]},
+            {"troubleshooting":[
+                {"val1":"Keyboard Not Responding", "val2":[
+                    "Check the USB-C connection for secure attachment.",
+                    "Test the keyboard on a different device.",
+                    "Perform a factory reset by holding Fn + Esc for 5 seconds."
+                ]},
+                {"val1":"Backlighting Not Working", "val2":[
+                    "Verify lighting is enabled (Fn + Home).",
+                    "Ensure the USB-C cable is fully connected."
+                ]},
+                {"val1":"Key Not Registering", "val2":[
+                    "Check for debris under the switch.",
+                    "Test the key functionality in another program."
+                ]}
+            ]},
+            {"maintenance":[
+                {"val1":"Cleaning", "val2":[
+                    "Disconnect the keyboard and remove debris with a soft brush.",
+                    "For thorough cleaning, remove keycaps and use the included microfiber cloth."
+                ]},
+                {"val1":"Storage", "val2":[
+                    "Keep the keyboard in the provided drawstring pouch to avoid dust accumulation."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "The craftsmanship is unparalleled!", "reviewer": "Alex Johnson"},
+            {"id": 2, "rating": 4, "review": "Great performance but a bit pricey.", "reviewer": "Megan Smith"},
+            {"id": 3, "rating": 5, "review": "Absolutely love the gilded design.", "reviewer": "Chris Evans"},
+            {"id": 4, "rating": 3, "review": "Looks good, but the keys feel stiff.", "reviewer": "Jordan Lee"},
+            {"id": 5, "rating": 4, "review": "A solid keyboard for gamers.", "reviewer": "Taylor Brooks"}
+        ]
+    },
+    {
+        "id": 2,
+        "model": "KB2-Skyforge",
+        "switch": "Cherry MX Blue",
+        "size": "TKL",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB2/KB2.png",
+        "ov": "The Skyforge keyboard combines futuristic aesthetics with advanced technology. It features responsive mechanical switches, customizable lighting, and durable construction to meet the needs of professionals and gamers.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Futuristic RGB Backlighting", "val2": "Unique starlight animations for a cosmic vibe."},
+                    {"val1": "Mechanical Switches", "val2": "Cherry MX Blue switches for a clicky and precise feel."},
+                    {"val1": "Compact Design", "val2": "Tenkeyless form factor for portability and desk space."},
+                    {"val1": "Durability", "val2": "Aluminum top plate for a sturdy build."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Blue (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Tenkeyless (87 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with starlight effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB 3.0)"},
+                    {"val1": "Dimensions", "val2": "365 mm x 135 mm x 38 mm"},
+                    {"val1": "Weight", "val2": "1.1 kg"},
+                    {"val1": "Cable Length", "val2": "1.8 meters"}
+                ]
+            }
+        ],
+        "manual": [
+           {"setup": [
+                {"val1": "Unboxing", "val2": ["Carefully remove the keyboard and all included accessories from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Plug the braided USB cable into a free USB port.",
+                "The keyboard will automatically configure without additional drivers."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Skyforge Tuner from the official website for advanced lighting and macro customization.",
+                "Install the software using the provided installation wizard."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the forged-steel keycap puller to carefully detach the keycaps for cleaning or replacement.",
+                "Align new keycaps and press them onto the switches until they click."
+                ]}
+            ]},
+            {"usage":[
+                {"val1": "Basic Typing", "val2": ["Enjoy typing with responsive and durable Skyforge switches."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + F9 toggles through preconfigured lighting effects like ‘Starlight’ and ‘Forge Glow.’",
+                "Advanced lighting settings can be applied via Skyforge Tuner."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Launch Skyforge Tuner and select the desired key to assign a macro or function.",
+                "Save settings to apply customizations."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Dedicated media keys control volume, playback, and mute functions."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB cable is securely connected.",
+                "Try plugging the keyboard into another port or device.",
+                "Restart your computer."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Confirm that lighting is enabled using Fn + F9.",
+                "Check software settings to ensure no conflicts."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the switch for physical damage or debris.",
+                "Replace the switch if necessary."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Disconnect the keyboard and clean the surface with a soft cloth.",
+                "Remove keycaps for deeper cleaning and use compressed air to clear dust."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in a cool, dry location, away from direct sunlight and moisture."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 4, "review": "Stylish and comfortable to use.", "reviewer": "Sam Carter"},
+            {"id": 2, "rating": 5, "review": "Best keyboard I’ve ever owned!", "reviewer": "Jamie Taylor"},
+            {"id": 3, "rating": 3, "review": "Decent, but could improve on build quality.", "reviewer": "Pat Morgan"},
+            {"id": 4, "rating": 4, "review": "The lighting is fantastic.", "reviewer": "Drew Collins"},
+            {"id": 5, "rating": 5, "review": "Typing feels smooth and satisfying.", "reviewer": "Jordan Wells"}
+        ]
+    },
+    {
+        "id": 3,
+        "model": "KB3-Solaris",
+        "switch": "Cherry MX Speed",
+        "size": "Full-Size",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB3/KB3.png",
+        "ov": "Solaris brings a vibrant energy to your workspace. With its ergonomic design, hot-swappable switches, and customizable lighting, it’s ideal for gamers and professionals alike.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Ergonomic Design", "val2": "Compact and angled for comfort."},
+                    {"val1": "Wireless Freedom", "val2": "Bluetooth 5.0 ensures stable connections."},
+                    {"val1": "Hot-Swappable Switches", "val2": "Easy customization of switches."},
+                    {"val1": "Sunset RGB Effects", "val2": "Unique lighting to match your mood."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Speed (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Full-Size (104 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with sunset effects"},
+                    {"val1": "Connectivity", "val2": "Wireless (Bluetooth 5.0) / Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "325 mm x 120 mm x 30 mm"},
+                    {"val1": "Weight", "val2": "0.8 kg"},
+                    {"val1": "Battery Life", "val2": "50 hours on a single charge"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Remove the Solaris keyboard and sunburst-themed accessories from the packaging."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Attach the USB cable to the keyboard and plug it into a USB port.",
+                "The keyboard will be recognized automatically."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Solaris Customizer software to modify key bindings and lighting effects.",
+                "Follow the on-screen instructions to complete the installation."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the included keycap remover to gently detach keycaps for cleaning or replacement.",
+                "Align the replacement keycaps and press firmly until they click."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Type smoothly and accurately with Solaris’s linear switches."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + F12 toggles lighting effects like ‘Solar Flare’ and ‘Sunset Glow.’",
+                "Use the Solaris Customizer for more personalization."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open Solaris Customizer.",
+                "Select a key to assign macros or shortcuts."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Use Fn + media keys for playback, volume adjustment, and mute."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Check the USB connection for a secure fit.",
+                "Test the keyboard on another computer or USB port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Ensure lighting is enabled with Fn + F12.",
+                "Update the firmware through the software."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the switch for obstructions.",
+                "Replace the switch if hot-swappable."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Wipe down the keyboard with a microfiber cloth.",
+                "Remove keycaps for deep cleaning and use compressed air to clear debris."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in the included case to protect from dust and damage."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 3, "review": "Good for casual use but not for gaming.", "reviewer": "Casey Lee"},
+            {"id": 2, "rating": 5, "review": "Solaris lives up to its name—brilliant!", "reviewer": "Dana Kim"},
+            {"id": 3, "rating": 4, "review": "A reliable keyboard with nice features.", "reviewer": "Jesse Brown"},
+            {"id": 4, "rating": 4, "review": "The layout is perfect for productivity.", "reviewer": "Morgan White"},
+            {"id": 5, "rating": 5, "review": "Great for long typing sessions.", "reviewer": "Terry Green"}
+        ]
+    },
+    {
+        "id": 4,
+        "model": "KB4-Jade Serpent",
+        "switch": "Cherry MX Blue",
+        "size": "75%",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB4/KB4.png",
+        "ov": "The Jade Serpent keyboard is a masterpiece of design and functionality. Featuring dragon-inspired aesthetics, customizable RGB lighting, and responsive mechanical switches, it’s perfect for gamers and professionals who value style and performance.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Dragon-Themed RGB Lighting", "val2": "Stunning effects to match the design."},
+                    {"val1": "Mechanical Switches", "val2": "Cherry MX Blue for tactile and audible feedback."},
+                    {"val1": "Detachable Wrist Rest", "val2": "Comfort for long typing sessions."},
+                    {"val1": "Durable Construction", "val2": "Built to withstand heavy use."},
+                    {"val1": "Advanced Gaming Features", "val2": "Anti-ghosting and N-key rollover for reliability."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Blue (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "75% (104 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with dragon-themed effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "450 mm x 140 mm x 38 mm"},
+                    {"val1": "Weight", "val2": "1.4 kg"},
+                    {"val1": "Cable Length", "val2": "2 meters braided"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Carefully remove the Jade Serpent keyboard and accessories from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Plug the included USB-C cable into the keyboard and your computer.",
+                "The keyboard will be recognized automatically—no drivers needed."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Jade Configurator from the official website to unlock advanced features.",
+                "Install the software by following the instructions provided."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the serpent-themed keycap puller to gently lift keycaps.",
+                "Press new keycaps into place until you hear a click."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Enjoy tactile typing with switches inspired by serpent scales."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + F3 toggles between effects like ‘Serpent’s Glow’ and ‘Jungle Mist.’",
+                "Advanced effects can be configured in the software."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Jade Configurator.",
+                "Assign macros or special actions to keys."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Use Fn + dedicated keys to adjust volume and media playback."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Reconnect the USB cable securely.",
+                "Try a different USB port or computer."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Ensure lighting is enabled using Fn + F3.",
+                "Check for software or firmware updates."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the switch for dust or debris.",
+                "Replace the key switch if necessary."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Disconnect the keyboard and clean the surface with a dry cloth.",
+                "Remove keycaps for thorough cleaning and use a brush for hard-to-reach areas."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in the provided Jade-themed pouch to avoid scratches and dust."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 4, "review": "Beautiful jade-themed keyboard.", "reviewer": "Robin Scott"},
+            {"id": 2, "rating": 5, "review": "Feels like a work of art in my hands.", "reviewer": "Kelly Adams"},
+            {"id": 3, "rating": 4, "review": "Great aesthetics and solid build.", "reviewer": "Jamie Hall"},
+            {"id": 4, "rating": 3, "review": "Keys are a bit noisy for my taste.", "reviewer": "Ryan Cook"},
+            {"id": 5, "rating": 5, "review": "Worth every penny!", "reviewer": "Taylor Reed"}
+        ]
+    },
+    {
+        "id": 5,
+        "model": "KB5-Gudetama",
+        "switch": "Cherry MX Speed",
+        "size": "Full-Size",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB5/KB5.png",
+        "ov": "The Gudetama keyboard brings a touch of whimsy to your setup. With its egg-inspired design and playful aesthetics, it’s perfect for casual users and those who appreciate quirky accessories.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Playful Design", "val2": "Unique Gudetama-themed appearance."},
+                    {"val1": "Warm Yellow Lighting", "val2": "Relaxing illumination."},
+                    {"val1": "Compact Form Factor", "val2": "Ideal for small spaces or portability."},
+                    {"val1": "Wireless Connectivity", "val2": "Freedom to move."},
+                    {"val1": "Hot-Swappable Switches", "val2": "Easy to customize."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Speed (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Full-Size (104 keys)"},
+                    {"val1": "Backlighting", "val2": "Warm yellow with animated effects"},
+                    {"val1": "Connectivity", "val2": "Wireless (Bluetooth 5.0) / Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "290 mm x 100 mm x 30 mm"},
+                    {"val1": "Weight", "val2": "0.7 kg"},
+                    {"val1": "Battery Life", "val2": "40 hours on a single charge"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Carefully unpack the Gudetama keyboard and accessories from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Attach the USB cable to the keyboard and plug it into an available USB port.",
+                "The keyboard will be ready to use immediately—no drivers are needed."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Gudetama Configuration software from the official website to customize lighting and macros.",
+                "Follow the installation prompts to complete setup."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the included egg-themed keycap remover to gently detach keycaps.",
+                "Press replacement keycaps down until they click into place."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Enjoy typing with Gudetama-themed switches for a fun and smooth experience."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Use Fn + F4 to toggle between lighting modes like ‘Lazy Glow’ and ‘Soft Sunset.’",
+                "Advanced options are available in the software."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Gudetama Configuration software.",
+                "Select a key to assign macros or shortcuts."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Fn + dedicated media keys control playback and volume."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB connection is secure.",
+                "Test the keyboard on another device or port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Toggle backlighting with Fn + F4.",
+                "Update software or firmware if needed."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the switch for debris or dust.",
+                "Replace the switch if required."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Wipe the keyboard with a soft cloth.",
+                "Remove keycaps for deep cleaning using compressed air."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in a cool, dry place, away from direct sunlight or liquids."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "Super cute and functional.", "reviewer": "Jordan King"},
+            {"id": 2, "rating": 4, "review": "The design is adorable.", "reviewer": "Sydney Ward"},
+            {"id": 3, "rating": 4, "review": "Perfect for casual use.", "reviewer": "Quinn Gray"},
+            {"id": 4, "rating": 3, "review": "Not as durable as I expected.", "reviewer": "Alex Harris"},
+            {"id": 5, "rating": 5, "review": "I love the Gudetama theme!", "reviewer": "Drew Miller"}
+        ]
+    },
+    {
+        "id": 6,
+        "model": "KB6-Sailor Moon",
+        "switch": "Cherry MX Red",
+        "size": "TKL",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB6/KB6.png",
+        "ov": "The Sailor Moon keyboard is an enchanting addition to any workspace. Featuring magical, anime-inspired aesthetics and high-performance mechanical switches, it’s both functional and delightful.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Anime-Inspired Design", "val2": "Elegant moon and star motifs."},
+                    {"val1": "Silent Switches", "val2": "Cherry MX Red for quiet operation."},
+                    {"val1": "Customizable RGB Lighting", "val2": "Create magical lighting profiles."},
+                    {"val1": "Anti-Ghosting & N-Key Rollover", "val2": "For seamless gaming and typing."},
+                    {"val1": "Special Edition Keycaps", "val2": "Unique designs inspired by Sailor Moon."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Red (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Tenkeyless (87 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with moonlight effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "440 mm x 135 mm x 35 mm"},
+                    {"val1": "Weight", "val2": "1.2 kg"},
+                    {"val1": "Cable Length", "val2": "1.8 meters"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Carefully remove the Sailor Moon keyboard and crescent-themed accessories from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Plug the USB cable into your computer and the keyboard.",
+                "It will be automatically recognized without additional setup."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Moonlight Configurator from the official website for advanced options.",
+                "Install the software by following the instructions."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the crescent keycap puller to gently remove keycaps.",
+                "Align replacement keycaps and press down until secure."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Type effortlessly with the Sailor Moon keyboard’s soft, responsive keys."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Press Fn + F8 to switch between lighting modes like ‘Lunar Glow’ and ‘Starry Night.’",
+                "Create custom profiles using the Moonlight Configurator."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Moonlight Configurator and select the key to program.",
+                "Save macros or functions to your desired keys."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Use the Fn + media keys to adjust playback and volume."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure all connections are tight.",
+                "Restart your device or try another USB port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Enable lighting using Fn + F8.",
+                "Check for firmware or software updates."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the key switch for physical damage.",
+                "Replace the switch if hot-swappable."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Clean the surface with a soft cloth.",
+                "Remove keycaps for a deeper clean with a brush or compressed air."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in the included pouch to protect from dust."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "A magical experience every time!", "reviewer": "Taylor Clark"},
+            {"id": 2, "rating": 4, "review": "Feels like a sailor's dream.", "reviewer": "Jordan Young"},
+            {"id": 3, "rating": 5, "review": "Best purchase I've made in years.", "reviewer": "Alex Lopez"},
+            {"id": 4, "rating": 3, "review": "Design is nice but overpriced.", "reviewer": "Dana Brown"},
+            {"id": 5, "rating": 4, "review": "Great for anime fans.", "reviewer": "Chris Moore"}
+        ]
+    },
+    {
+        "id": 7,
+        "model": "KB7-Pac Man",
+        "switch": "Cherry MX Black",
+        "size": "Full-Size",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB7/KB7.png",
+        "ov": "The Pac Man keyboard combines retro gaming nostalgia with modern technology. It’s equipped with responsive mechanical switches, pixel-inspired RGB lighting, and durable build quality.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Retro Pixel Lighting", "val2": "Unique animations inspired by the classic Pac Man game."},
+                    {"val1": "Clicky Switches", "val2": "Cherry MX Black  for tactile and audible feedback."},
+                    {"val1": "Durable Build", "val2": "Designed for extensive use."},
+                    {"val1": "Themed Keycaps", "val2": "Retro-styled keycaps featuring Pac Man and ghosts."},
+                    {"val1": "Anti-Ghosting & N-Key Rollover", "val2": "Ensure accuracy during intense use."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Black (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Full-size (104 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with pixel animations"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "445 mm x 140 mm x 36 mm"},
+                    {"val1": "Weight", "val2": "1.3 kg"},
+                    {"val1": "Cable Length", "val2": "2 meters braided"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Remove the Pac Man keyboard and retro accessories from the packaging."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Plug the USB cable into the keyboard and an available USB port.",
+                "No additional setup is required; the keyboard will be ready to use."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Pac-Man Customizer from the official site for lighting and key programming.",
+                "Install the software by following the provided steps."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the joystick-style keycap puller to carefully remove keycaps.",
+                "Press new keycaps down until they snap into place."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Enjoy responsive typing with tactile switches inspired by arcade classics."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + Arrow keys toggle lighting effects like ‘Chasing Ghosts’ and ‘Power Pellet.’",
+                "Advanced effects can be configured in the Pac-Man Customizer."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Pac-Man Customizer software and assign macros to keys.",
+                "Save and apply your settings."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Fn + media keys control playback and volume seamlessly."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB connection is secure.",
+                "Restart your computer or try a different port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Enable backlighting with Fn + Arrow keys.",
+                "Check for software conflicts or updates."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Check the key for obstructions or damage.",
+                "Replace the switch if necessary."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Use a soft cloth to clean the surface.",
+                "Remove keycaps for deep cleaning and clear dust with compressed air."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in the provided retro-themed box to avoid damage."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "Nostalgia in a keyboard!", "reviewer": "Casey Davis"},
+            {"id": 2, "rating": 4, "review": "Pac-Man theme is fantastic.", "reviewer": "Robin Martinez"},
+            {"id": 3, "rating": 3, "review": "Performance is okay.", "reviewer": "Jamie Wright"},
+            {"id": 4, "rating": 5, "review": "Great for both typing and gaming.", "reviewer": "Sam Roberts"},
+            {"id": 5, "rating": 4, "review": "Solid and reliable.", "reviewer": "Terry Walker"}
+        ]
+    },
+    {
+        "id": 8,
+        "model": "KB8-Itachi Uchiha",
+        "switch": "Cherry MX Black",
+        "size": "Full-Size",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB8/KB8.png",
+        "ov": "The Itachi Uchiha keyboard embodies the stealth and precision of a ninja. With sleek aesthetics, customizable RGB lighting, and advanced mechanical switches, it’s perfect for gamers and fans of anime.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Sharingan RGB Effects", "val2": "Unique lighting inspired by Itachi’s sharingan."},
+                    {"val1": "Linear Switches", "val2": "Cherry MX Black for smooth and silent operation."},
+                    {"val1": "Compact Design", "val2": "Tenkeyless for portability."},
+                    {"val1": "Durable Construction", "val2": "Built for long-term use."},
+                    {"val1": "Anime-Themed Keycaps", "val2": "Special edition designs featuring Itachi."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Black (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Full-Size (104 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with sharingan effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "360 mm x 125 mm x 34 mm"},
+                    {"val1": "Weight", "val2": "1.1 kg"},
+                    {"val1": "Cable Length", "val2": "1.8 meters"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Remove the Itachi Uchiha keyboard and themed accessories, including the Sharingan keycap, from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Connect the detachable USB-C cable to the keyboard and plug it into a USB port on your computer.",
+                "The keyboard will be automatically recognized—no drivers are needed."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Sharingan Configurator from the official website to customize macros and lighting.",
+                "Install the software by following the provided instructions."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the included Sharingan keycap puller to gently remove keycaps.",
+                "Align the replacement keycap and press it down until it clicks into place."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Type seamlessly with tactile switches inspired by Itachi's precision and focus."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Use Fn + F6 to toggle lighting modes like ‘Sharingan Glow’ and ‘Akatsuki Storm.’",
+                "Personalize effects with the Sharingan Configurator software."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Sharingan Configurator to assign macros or actions to any key.",
+                "Save and apply your configurations."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Control playback and volume using Fn + media keys."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB-C cable is securely connected.",
+                "Test the keyboard on another device or port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Enable backlighting using Fn + F6.",
+                "Check for firmware updates via the Sharingan Configurator."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the key for dust or debris.",
+                "Replace the switch if hot-swappable."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Wipe the surface with a microfiber cloth.",
+                "Remove keycaps for a deeper clean using compressed air."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in the Akatsuki-themed protective pouch to prevent damage."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "Perfect for Naruto fans!", "reviewer": "Jordan Brown"},
+            {"id": 2, "rating": 4, "review": "Looks amazing on my desk.", "reviewer": "Alex Wilson"},
+            {"id": 3, "rating": 5, "review": "Highly recommend for Itachi lovers.", "reviewer": "Dana Anderson"},
+            {"id": 4, "rating": 3, "review": "Could improve on key responsiveness.", "reviewer": "Taylor Thomas"},
+            {"id": 5, "rating": 4, "review": "Impressive design and functionality.", "reviewer": "Sydney Martinez"}
+        ]
+    },
+    {
+        "id": 9,
+        "model": "KB9-Sakura Bloom",
+        "switch": "Cherry MX Red",
+        "size": "60%",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB9/KB9.png",
+        "ov": "The Sakura Bloom keyboard is a beautiful blend of elegance and functionality. With floral-inspired aesthetics, vibrant RGB lighting, and comfortable mechanical switches, it’s perfect for a stylish workspace.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Floral RGB Animations", "val2": "Beautiful lighting inspired by cherry blossoms."},
+                    {"val1": "Responsive Switches", "val2": "Cherry MX Red for smooth and quiet typing."},
+                    {"val1": "Elegant Design", "val2": "Perfect for aesthetic-conscious users."},
+                    {"val1": "Durability", "val2": "Built to withstand daily use."},
+                    {"val1": "Custom Keycaps", "val2": "Floral-themed for added style."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry MX Red (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "60% (68 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with floral animations"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "445 mm x 135 mm x 35 mm"},
+                    {"val1": "Weight", "val2": "1.2 kg"},
+                    {"val1": "Cable Length", "val2": "1.8 meters"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Unbox the Sakura Bloom keyboard and floral-themed accessories carefully."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Attach the USB-C cable to the keyboard and plug it into a USB port.",
+                "The keyboard will be recognized automatically."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Sakura Configurator from the official website to customize lighting and key mappings.",
+                "Follow the setup instructions to complete installation."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the floral-themed keycap puller to gently remove keycaps for cleaning or replacement.",
+                "Press replacement keycaps firmly until they click."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Type with ease using the keyboard's soft and responsive Sakura switches."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + F7 toggles lighting modes such as ‘Cherry Blossom Drift’ and ‘Petal Glow.’",
+                "Create custom lighting profiles in the Sakura Configurator."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Sakura Configurator and select keys to assign macros or actions.",
+                "Save and activate your settings."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Control volume and playback using Fn + media keys."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB connection is secure.",
+                "Test the keyboard on another device or port."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Enable lighting with Fn + F7.",
+                "Check for firmware updates if issues persist."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the key for debris or dust.",
+                "Replace the switch if necessary."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Wipe the keyboard with a soft cloth to remove dirt.",
+                "For deep cleaning, remove keycaps and use a brush or compressed air."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in a floral protective case to prevent damage."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 4, "review": "Beautiful cherry blossom theme.", "reviewer": "Casey Wilson"},
+            {"id": 2, "rating": 5, "review": "Aesthetics are top-notch.", "reviewer": "Jamie Lopez"},
+            {"id": 3, "rating": 4, "review": "Great for light typing tasks.", "reviewer": "Pat Harris"},
+            {"id": 4, "rating": 3, "review": "Not very ergonomic.", "reviewer": "Drew Evans"},
+            {"id": 5, "rating": 5, "review": "Absolutely love this keyboard!", "reviewer": "Taylor Scott"}
+        ]
+    },
+    {
+        "id": 10,
+        "model": "KB10-Naraka",
+        "switch": "Cherry MX Red",
+        "size": "Full-Size",
+        "img": "https://raw.githubusercontent.com/egwolk4School/KeyboardImages/main/KB10/KB10.png",
+        "ov": "The Naraka keyboard is designed for hardcore gamers. With rugged construction, vibrant RGB effects, and precision mechanical switches, it’s built to withstand intense gaming sessions.",
+        "details": [
+            {
+                "feats": [
+                    {"val1": "Fire-Themed RGB Effects", "val2": "Intense animations for an immersive experience."},
+                    {"val1": "Speed Switches", "val2": "Cherry MX Red for fast and responsive input."},
+                    {"val1": "Rugged Design", "val2": "Metal frame ensures durability."},
+                    {"val1": "Advanced Gaming Features", "val2": "Anti-ghosting and N-key rollover for precision."},
+                    {"val1": "Heavy-Duty Build", "val2": "Perfect for high-intensity gaming."}
+                ]
+            },
+            {
+                "specs": [
+                    {"val1": "Switch Type", "val2": "Cherry Mx Red (Mechanical)"},
+                    {"val1": "Key Layout", "val2": "Full-size (104 keys)"},
+                    {"val1": "Backlighting", "val2": "RGB with fire-themed effects"},
+                    {"val1": "Connectivity", "val2": "Wired (USB-C)"},
+                    {"val1": "Dimensions", "val2": "450 mm x 140 mm x 38 mm"},
+                    {"val1": "Weight", "val2": "1.4 kg"},
+                    {"val1": "Cable Length", "val2": "2 meters braided"}
+                ]
+            }
+        ],
+        "manual": [
+            {"setup": [
+                {"val1": "Unboxing", "val2": ["Remove the Naraka keyboard and its dragon-themed accessories from the box."]},
+                {"val1": "Connecting the Keyboard", "val2": [
+                "Connect the detachable USB-C cable to the keyboard and a USB port on your device.",
+                "The keyboard will be ready to use immediately."
+                ]},
+                {"val1": "Software Installation (Optional)", "val2": [
+                "Download the Naraka Configurator software to access advanced customization features.",
+                "Follow the installation instructions to complete setup."
+                ]},
+                {"val1": "Keycap Removal and Replacement", "val2": [
+                "Use the dragon-themed keycap puller to gently remove keycaps.",
+                "Align and press new keycaps until they click securely into place."
+                ]}
+            ]},
+            {"usage": [
+                {"val1": "Basic Typing", "val2": ["Type confidently with the Naraka keyboard's durable and responsive switches."]},
+                {"val1": "Customizing Backlighting", "val2": [
+                "Fn + F5 toggles lighting effects such as ‘Dragon’s Flame’ and ‘Shadow Strike.’",
+                "Use the Naraka Configurator for custom profiles."
+                ]},
+                {"val1": "Programming Keys", "val2": [
+                "Open the Naraka Configurator to program macros or assign custom functions.",
+                "Save and apply your changes."
+                ]},
+                {"val1": "Using Media Controls", "val2": [
+                "Adjust playback and volume using Fn + media keys."
+                ]}
+            ]},
+            {"troubleshooting": [
+                {"val1": "Keyboard Not Responding", "val2": [
+                "Ensure the USB-C cable is connected properly.",
+                "Test the keyboard on another USB port or device."
+                ]},
+                {"val1": "Backlighting Not Working", "val2": [
+                "Toggle backlighting with Fn + F5.",
+                "Update firmware or software if required."
+                ]},
+                {"val1": "Key Not Registering", "val2": [
+                "Inspect the key for debris or damage.",
+                "Replace the key switch if hot-swappable."
+                ]}
+            ]},
+            {"maintenance": [
+                {"val1": "Cleaning", "val2": [
+                "Clean the keyboard with a soft cloth.",
+                "Remove keycaps and use compressed air for deep cleaning."
+                ]},
+                {"val1": "Storage", "val2": [
+                "Store in a cool, dry place, preferably in the included Naraka protective case."
+                ]}
+            ]}
+        ],
+        "reviews":[
+            {"id": 1, "rating": 5, "review": "Naraka theme is stunning.", "reviewer": "Robin King"},
+            {"id": 2, "rating": 4, "review": "Great feel and response.", "reviewer": "Jordan Clark"},
+            {"id": 3, "rating": 4, "review": "Works well for gaming.", "reviewer": "Dana Brooks"},
+            {"id": 4, "rating": 3, "review": "Keys could be more durable.", "reviewer": "Sam Young"},
+            {"id": 5, "rating": 5, "review": "A premium experience!", "reviewer": "Terry Taylor"}
+        ]
+    }    
+]

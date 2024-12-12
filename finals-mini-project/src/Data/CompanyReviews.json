@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nickname": "TechLover92",
+        "review": "I absolutely love the build quality and responsiveness of the Keystaxx keyboard. It feels premium and the keys are smooth to type on.",
+        "rating": 5
+    },
+    {
+        "id": 2,
+        "nickname": "Coder123",
+        "review": "The Keystaxx keyboard is great for coding. The key switches are tactile and offer just the right amount of feedback.",
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "nickname": "GamerX",
+        "review": "While the design is sleek, I felt the switches could have been a bit quieter. Overall, a good product for gaming and typing.",
+        "rating": 4
+    },
+    {
+        "id": 4,
+        "nickname": "ErgoFan",
+        "review": "Keystaxx's ergonomic design really helps with long typing sessions. My wrists don’t hurt anymore after hours of work!",
+        "rating": 5
+    },
+    {
+        "id": 5,
+        "nickname": "JessicaW",
+        "review": "Great keyboard, but the backlighting could be brighter. Still, it's a solid performer and feels durable.",
+        "rating": 4
+    },
+    {
+        "id": 6,
+        "nickname": "TechieGamer",
+        "review": "The performance is top-notch for gaming. However, the price is a bit steep for a mechanical keyboard.",
+        "rating": 3
+    },
+    {
+        "id": 7,
+        "nickname": "TypingMaster",
+        "review": "Perfect keyboard for typing. The switches have just the right actuation force, and I’m able to type quickly and accurately.",
+        "rating": 5
+    },
+    {
+        "id": 8,
+        "nickname": "JohnDoe",
+        "review": "Not bad, but I had a few issues with keybinding. Keystaxx's customer support was helpful, though!",
+        "rating": 3
+    },
+    {
+        "id": 9,
+        "nickname": "CreativeMind",
+        "review": "I use this keyboard for both work and gaming, and it serves both purposes well. It's comfortable and reliable.",
+        "rating": 4
+    },
+    {
+        "id": 10,
+        "nickname": "KeyboardNerd",
+        "review": "I’m extremely impressed with Keystaxx. The key presses feel smooth, and I love the customization options for keycaps.",
+        "rating": 5
+    }
+]

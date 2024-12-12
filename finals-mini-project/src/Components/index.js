@@ -1,0 +1,7 @@
+export * from './Footer/Footer'
+export * from './Header/Header'
+export * from './AnimationBG'
+export * from './Keyboards/KeyboardDetails'
+export * from './/Keyboards/KeyboardManuals'
+export * from './Keyboards/KeyboardReviews'
+export * from './Keyboards/Keyboards'
